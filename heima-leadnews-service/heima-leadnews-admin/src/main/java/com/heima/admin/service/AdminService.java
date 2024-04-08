@@ -12,4 +12,6 @@ public interface AdminService extends IService<AdUser> {
      * @return
      */
     ResponseResult login(AdUser adUser);
+
+    //what the fuck
 }
